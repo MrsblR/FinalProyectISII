@@ -11,3 +11,7 @@ Se descargo el Jmeter Binario con el zip
 ### Tener el JDK java 8+
 
 ![is2](https://user-images.githubusercontent.com/86405228/209914914-a34d3502-72a7-42d2-93ea-7971f3f96293.png)
+
+Se visualiza jmeter
+
+![is3](https://user-images.githubusercontent.com/86405228/209915773-5e2c1de3-3a78-4c60-8317-4187bcce8b9a.png)
