@@ -1,4 +1,13 @@
 # PROYECTO FINAL DE INGENIERÍA DE SOFTWARE II
 
 ## INTEGRANTES
-![image](https://user-images.githubusercontent.com/86405228/209913759-abc44153-1272-4b8d-b689-1cacf093332a.png)
+Gleddynuri Marbel Picha Chañi
+## pruebas de performance
+Los pasos a seguir para la realizacion de las pruebas perforance son las siguientes
+
+### Descargar la herramienta Jmeter
+![is1](https://user-images.githubusercontent.com/86405228/209914056-a6eeefe8-92cf-4a7c-a2fc-0f9484ff6de2.png)
+Se descargo el Jmeter Binario con el zip
+### Tener el JDK java 8+
+
+![is2](https://user-images.githubusercontent.com/86405228/209914914-a34d3502-72a7-42d2-93ea-7971f3f96293.png)
