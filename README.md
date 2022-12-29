@@ -1,7 +1,5 @@
 # PROYECTO FINAL DE INGENIERÍA DE SOFTWARE II
 
-## INTEGRANTES
-Gleddynuri Marbel Picha Chañi
 ## PRUEBAS DE PERFORMANCE
 Los pasos a seguir para la realizacion de las pruebas perforance son las siguientes
 
