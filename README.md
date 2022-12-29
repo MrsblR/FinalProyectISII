@@ -2,7 +2,7 @@
 
 ## INTEGRANTES
 Gleddynuri Marbel Picha Chañi
-## pruebas de performance
+## PRUEBAS DE PERFORMANCE
 Los pasos a seguir para la realizacion de las pruebas perforance son las siguientes
 
 ### Descargar la herramienta Jmeter
@@ -15,3 +15,6 @@ Se descargo el Jmeter Binario con el zip
 Se visualiza jmeter
 
 ![is3](https://user-images.githubusercontent.com/86405228/209915773-5e2c1de3-3a78-4c60-8317-4187bcce8b9a.png)
+### Usamos la apicacion en el jmeter
+### Analizamos la Prueba de Performance
+### Mostraos resultados
